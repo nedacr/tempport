@@ -11,7 +11,7 @@ const Navbar = () => {
         <nav className='navbar'>
           <img src={logo} alt="Logo" className='logo' />
           <div className="desktopMenu"> 
-            <Link to='intro' spy={true} smooth={true} offset={-100} duration={500} className="desktopMenuListItem" activeClassName="active">Home</Link>
+            <Link to='intro' spy={true} smooth={true} offset={-100} duration={500} className="desktopMenuListItem" activeClassName="active">Homeeee</Link>
             <Link to='skills' spy={true} smooth={true} offset={-50} duration={500} className="desktopMenuListItem" activeClassName="active">About</Link>
             <Link to='works' spy={true} smooth={true} offset={-50} duration={500} className="desktopMenuListItem" activeClassName="active">Portfolio</Link>
             <Link to='clients' spy={true} smooth={true} offset={-50} duration={500} className="desktopMenuListItem" activeClassName="active">Clients</Link>
